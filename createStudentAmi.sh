@@ -180,3 +180,5 @@ rm -rf /tmp/provisionUbuntuUser.tar
 
 cd ~
 git clone https://github.com/jamesbyars/aec-calculator.git
+git clone https://github.com/jamesbyars/leap-year-calculator.git
+git clone https://github.com/jasonandersen/FizzBuzz.git
